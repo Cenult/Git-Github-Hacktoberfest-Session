@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/Cenult/MyPersonalResource/blob/main/MyPhoto.jpg" width="29">, I'm [SarthakChoudhary](https://github.com/Cenult) 
+# Hey <img src="https://avatars.githubusercontent.com/u/102959557?v=4" width="29">, I'm [SarthakChoudhary](https://github.com/Cenult) 
   
  ## 💫 About Me:
 
